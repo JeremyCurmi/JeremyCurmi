@@ -1,4 +1,4 @@
-- 👋 Hey, My name is @JeremyCurmi, I am a Full Stack Data Scientist
+- 👋 Hey, My name is @JeremyCurmi, I am a Machine Learning Engineer/Data Scientist
 - 👀 I’m interested in all parts of data lifecycle
 - 🌱 I’m currently learning Golang, and have a couple of other courses in the pipeline, namely ML for Big data and Deep Learning
 - 💞️ I’m looking to collaborate on data projects (ML parts especially)
