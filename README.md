@@ -1,6 +1,6 @@
-- 👋 Hey, My name is @JeremyCurmi, I am a Machine Learning Engineer/Data Scientist
-- 👀 I’m interested in all parts of data lifecycle
-- 🌱 I’m currently learning Golang, and have a couple of other courses in the pipeline, namely ML for Big data and Deep Learning
+- 👋 Hey, my name is Jeremy, I am a Machine Learning Engineer.
+- 👀 I’m interested in all stuff Tech, Code, Machine Learning, Web development etc ...
+- 🌱 I’m currently working as a data scientist, and in my spare time I am training to become a software engineer.
 - 💞️ I’m looking to collaborate on data projects (ML parts especially)
 - 📫 How to reach me: send a message to my linkedIn account @ www.linkedin.com/in/jeremy-curmi
 
